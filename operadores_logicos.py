@@ -1,3 +1,4 @@
+
 # Atividade 1
 idade = 20
 tem_carteira = True
@@ -38,3 +39,10 @@ nota = 7
 frequencia = 80
 
 print(6 and frequencia >=75)
+
+# Atividade 6
+
+numero = 4
+numero2 = 10
+
+print(5 or numero2 > 10)
